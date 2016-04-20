@@ -1,0 +1,2 @@
+# LinuxStudyLog
+noob in Linux
